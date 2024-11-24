@@ -1,0 +1,2 @@
+# Coronary-Heart-Disease-Prognosis-and-Diagnosis-using-Machine-Learning-
+This project aims to improve coronary heart disease (CHD) diagnosis using machine learning by integrating physical factors (cholesterol, blood pressure, heart rate) with psychological factors (stress, sleep quality). It uses the psychological and mental stress datasets, using inbuilt and ensemble models for better predictions and early intervention
