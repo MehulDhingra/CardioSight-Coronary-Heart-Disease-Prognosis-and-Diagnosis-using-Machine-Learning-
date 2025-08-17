@@ -60,7 +60,6 @@
   <li><strong>Accuracy:</strong> High accuracy achieved with the ensemble model.</li>
   <li><strong>Precision &amp; Recall:</strong> Balanced results showing reliability in identifying true CHD cases.</li>
   <li><strong>F1-Score:</strong> Strong balance between false positives and false negatives.</li>
-  <li><strong>ROC–AUC:</strong> Consistently strong, confirming discriminative power.</li>
 </ul>
 
 <!-- Optional: quick metrics table (fill with your actual numbers) -->
@@ -72,41 +71,15 @@
       <th>Precision</th>
       <th>Recall</th>
       <th>F1-Score</th>
-      <th>ROC–AUC</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Logistic Regression</td>
-      <td><!-- e.g., 0.84 --></td>
-      <td><!-- e.g., 0.82 --></td>
-      <td><!-- e.g., 0.80 --></td>
-      <td><!-- e.g., 0.81 --></td>
-      <td><!-- e.g., 0.88 --></td>
-    </tr>
-    <tr>
-      <td>Random Forest</td>
-      <td><!-- e.g., 0.88 --></td>
-      <td><!-- e.g., 0.86 --></td>
-      <td><!-- e.g., 0.85 --></td>
-      <td><!-- e.g., 0.85 --></td>
-      <td><!-- e.g., 0.92 --></td>
-    </tr>
-    <tr>
-      <td>XGBoost</td>
-      <td><!-- e.g., 0.89 --></td>
-      <td><!-- e.g., 0.87 --></td>
-      <td><!-- e.g., 0.86 --></td>
-      <td><!-- e.g., 0.86 --></td>
-      <td><!-- e.g., 0.93 --></td>
-    </tr>
-    <tr>
       <td><strong>Ensemble (Final)</strong></td>
-      <td><strong><!-- e.g., 0.91 --></strong></td>
-      <td><strong><!-- e.g., 0.89 --></strong></td>
-      <td><strong><!-- e.g., 0.88 --></strong></td>
-      <td><strong><!-- e.g., 0.89 --></strong></td>
-      <td><strong><!-- e.g., 0.95 --></strong></td>
+      <td><strong>0.99</strong></td>
+      <td><strong>1</strong></td>
+      <td><strong>0.99</strong></td>
+      <td><strong>0.99</strong></td>
     </tr>
   </tbody>
 </table>
