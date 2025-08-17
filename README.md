@@ -95,7 +95,7 @@
 
 <!-- Embed your plot (update the src path to your plot file) -->
 <p align="center">
-  <img src="assets/actual_vs_predicted_tenyearchd.png" alt="Actual vs Predicted TenYearCHD (Ensemble Model)" width="70%">
+  <img src="/assets/actual_vs_predicted_tenyearchd.png.png" alt="Actual vs Predicted TenYearCHD (Ensemble Model)" width="70%">
 </p>
 
 <hr />
